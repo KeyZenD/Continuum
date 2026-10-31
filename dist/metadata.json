@@ -1,0 +1,10 @@
+{
+  "Name": "Continuum",
+  "Owner": "KeyZenD",
+  "Creator": "deepseek",
+  "Description": "Tiles the tablet area across the whole tablet; crossing an edge wraps the cursor to the opposite side.",
+  "PluginVersion": "1.0.0",
+  "SupportedDriverVersion": "0.6.8.1",
+  "RepositoryUrl": "https://github.com/KeyZenD/Continuum",
+  "LicenseIdentifier": "MIT"
+}
